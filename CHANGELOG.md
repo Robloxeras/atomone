@@ -26,3 +26,5 @@
 - add MinDepositRatio in gov params [#13](https://github.com/atomone-hub/atomone/pull/13)
 - add Constitution Amendments and Laws proposal types [#11](https://github.com/atomone-hub/atomone/pull/11)
 - add late quorum voting period extension [#12](https://github.com/atomone-hub/atomone/pull/12)
+- remove usage of x/params module [#21](https://github.com/atomone-hub/atomone/pull/21)
+
